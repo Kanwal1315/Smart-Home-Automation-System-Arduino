@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="cover%20page.png" alt="Smart Home Automation Cover" width="100%">
-</p>
+
 
 # 🏠 Smart Home Automation System using Arduino
 
